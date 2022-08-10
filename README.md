@@ -3,8 +3,6 @@
 
 
 
-- 🌱 I’m currently learning **Angular 14 and NodeJS**
-
 - 👨‍💻 All of my projects are available at [eduardointech.com](eduardointech.com)
 
 - 💬 Ask me about **Angular, html, css, javascript and startups**
