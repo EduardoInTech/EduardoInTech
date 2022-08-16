@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [eduardointech.com](eduardointech.com)
+- 👨‍💻 You can find more about me at [eduardointech.com](eduardointech.com)
 
 - 💬 Ask me about **Angular, html, css, javascript and startups**
 
